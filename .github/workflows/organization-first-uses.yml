@@ -1,0 +1,109 @@
+name: Organization first uses
+
+# Comments on the sponsors.yml and involvements.yml lines where a series references an existing organization for the
+# first time, so a human checks it isn't a different organization that happens to share the slug.
+#
+# pull_request_target gives the token the write access that review comments on pull requests from forks need. So
+# this only runs the base branch's code; the pull request's commits are fetched and read as data, never executed.
+#
+# No paths filter: GitHub only matches it against the first 300 changed files, and big data imports are where a slug is
+# most likely reused by mistake. The task finishes quickly when no sponsors.yml or involvements.yml changed.
+on:
+  pull_request_target:
+
+permissions:
+  contents: read
+  pull-requests: write
+
+concurrency:
+  group: organization-first-uses-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  first-uses:
+    name: Organization first uses
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      RAILS_ENV: test
+
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - name: Fetch the pull request's commits
+        env:
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: git fetch --no-tags origin "+refs/pull/${PR_NUMBER}/head:refs/remotes/pull/head"
+
+      - name: Find first uses
+        env:
+          BASE: ${{ github.event.pull_request.base.sha }}
+          HEAD: ${{ github.event.pull_request.head.sha }}
+        run: bin/rails organizations_file:first_uses OUTPUT=tmp/organization_first_uses.json
+
+      - name: Comment on the lines
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require("fs");
+            const findings = JSON.parse(fs.readFileSync("tmp/organization_first_uses.json", "utf8"));
+            if (findings.length === 0) return core.info("No series references an existing organization for the first time.");
+
+            const { owner, repo } = context.repo;
+            const pull_number = context.payload.pull_request.number;
+            const byThisCheck = (comment) => comment.user?.login === "github-actions[bot]";
+            const marker = (finding) => `<!-- organization-first-use: ${finding.path} ${finding.key} -->`;
+            const intro = "Some lines reference an existing organization from a series that hasn't used it before. Please check each one.";
+
+            // Line comments from earlier pushes aren't posted again
+            const reviewComments = await github.paginate(github.rest.pulls.listReviewComments, { owner, repo, pull_number, per_page: 100 });
+            const posted = new Set(reviewComments.filter(byThisCheck).map((comment) => comment.body.match(/<!-- organization-first-use: [^>]* -->$/)?.[0]));
+
+            // GitHub only takes review comments on lines of the diff. Those beyond the first 50, and the lines of files
+            // that only moved, go into one summary comment, which later pushes update.
+            const onLines = findings.filter((finding) => finding.in_diff && !posted.has(marker(finding))).slice(0, 50);
+            const elsewhere = findings.filter((finding) => !finding.in_diff || (!posted.has(marker(finding)) && !onLines.includes(finding)));
+
+            if (onLines.length > 0) {
+              try {
+                await github.rest.pulls.createReview({
+                  owner,
+                  repo,
+                  pull_number,
+                  commit_id: context.payload.pull_request.head.sha,
+                  event: "COMMENT",
+                  body: intro,
+                  comments: onLines.map((finding) => ({
+                    path: finding.path,
+                    line: finding.line,
+                    side: "RIGHT",
+                    body: `${finding.body}\n\n${marker(finding)}`,
+                  })),
+                });
+              } catch (error) {
+                core.warning(`Review comments failed (${error.message}), listing them in the summary comment instead.`);
+                elsewhere.push(...onLines);
+              }
+            }
+
+            if (elsewhere.length > 0) {
+              const summaryMarker = "<!-- organization-first-uses-summary -->";
+              const body = [intro, "", ...elsewhere.map((finding) => `- \`${finding.path}:${finding.line}\`: ${finding.summary}`), "", summaryMarker].join("\n");
+              const issueComments = await github.paginate(github.rest.issues.listComments, { owner, repo, issue_number: pull_number, per_page: 100 });
+              const summary = issueComments.find((comment) => byThisCheck(comment) && comment.body.endsWith(summaryMarker));
+
+              if (summary) {
+                await github.rest.issues.updateComment({ owner, repo, comment_id: summary.id, body });
+              } else {
+                await github.rest.issues.createComment({ owner, repo, issue_number: pull_number, body });
+              }
+            }

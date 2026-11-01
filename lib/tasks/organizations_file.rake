@@ -107,4 +107,20 @@ namespace :organizations_file do
       puts "To merge, move the slug into the `aliases` of the organization to keep, then run bin/rails validate:fix to update the files that use the old slug"
     end
   end
+
+  desc "List lines where a series references an existing organization for the first time since BASE (git ref, default origin/main), " \
+    "for review. HEAD=git ref compares that commit instead of the working tree; OUTPUT=path also writes the findings as JSON"
+  task first_uses: :environment do
+    Static::Organization::FirstUses.between(base: ENV.fetch("BASE", "origin/main"), head: ENV["HEAD"].presence) do |first_uses|
+      findings = first_uses.findings
+
+      puts "No series references an existing organization for the first time" if findings.empty?
+      findings.each { |finding| puts "#{finding.path}:#{finding.line}: #{finding.summary}" }
+
+      if (output = ENV["OUTPUT"].presence)
+        FileUtils.mkdir_p(File.dirname(output))
+        File.write(output, JSON.pretty_generate(findings.map { |finding| finding.to_h.slice(:path, :line, :in_diff).merge(key: finding.key, summary: finding.summary, body: finding.body) }))
+      end
+    end
+  end
 end

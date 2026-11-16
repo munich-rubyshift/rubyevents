@@ -1,0 +1,21 @@
+---
+- id: "scaling-monolithic-rails-applications"
+  title: "Scaling monolithic Rails applications"
+  date: "2014-09-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "scaling-monolithic-rails-applications"
+  description: ""
+  speakers:
+    - Henning Koch
+
+- id: "codeqa-and-rubocop"
+  title: "codeqa and Rubocop"
+  date: "2014-09-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "codeqa-and-rubocop"
+  description: |-
+    A talk about codeqa (<https://github.com/experteer/codeqa>) and using Rubocop as a reformatter.
+  speakers:
+    - Andreas Eger

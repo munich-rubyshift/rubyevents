@@ -1,0 +1,21 @@
+---
+id: "meetup-2013-09-11"
+title: "Munich Rubyshift Meetup September 2013"
+subtitle: "The big Ruby & Database shootout!"
+location: "Munich, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+description: |-
+  This time we will have again very interesting speakers and topics.
+
+  We sincerely hope you will join us for this cool event.
+start_date: "2013-09-11"
+end_date: "2013-09-11"
+start_time: "19:00"
+end_time: "22:00"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/124636572/"
+coordinates:
+  latitude: 48.142891
+  longitude: 11.54306

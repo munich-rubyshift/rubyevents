@@ -1,0 +1,33 @@
+---
+- id: "cucumber-and-rspec-for-acceptance-testing"
+  title: "Cucumber and RSpec for acceptance testing"
+  date: "2012-09-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "cucumber-and-rspec-for-acceptance-testing"
+  description: |-
+    In this talk I will describe our current process of feature specification at Helpster, focusing specifically on the usage of Cucumber and RSpec for recording acceptance criteria and creating a living documentation.
+  speakers:
+    - Nikolay Sturm
+
+- id: "introduction-to-sinatra"
+  title: "Introduction to Sinatra"
+  date: "2012-09-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "introduction-to-sinatra"
+  description: |-
+    Sinatra is a small fine framework for writing fast and concise http-applications in Ruby.
+  speakers:
+    - Robert Kuzelj
+
+- id: "metrics-the-second-attempt"
+  title: "Metrics, the second attempt"
+  date: "2012-09-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "metrics-the-second-attempt"
+  description: |-
+    After trying once to speak on that subject and failing, I don't really want to give up. So here we go. I'm going to speak about how's and why's of system monitoring. And monitoring in general. And about how to build your own monitoring tools.
+  speakers:
+    - Alex Petrov

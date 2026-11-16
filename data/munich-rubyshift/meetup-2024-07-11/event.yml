@@ -1,0 +1,30 @@
+---
+id: "meetup-2024-07-11"
+title: "Munich Rubyshift Meetup July 2024"
+kind: "meetup"
+status: "cancelled"
+start_date: "2024-07-11"
+start_time: "19:00"
+end_date: "2024-07-11"
+end_time: "22:00"
+date_precision: "day"
+description: |-
+  Dear Munich Rubyists,
+
+  after the cancelled May meetup (sorry again!), it's time for 2024's summer edition for our meetup!
+
+  For our July meetup, I'm still looking for a location as well as a sponsor for food & drinks!
+
+  At this time, I'm also still looking for 1-2 talks. Maybe from you? ;-) Get in touch!
+
+  Agenda:
+  - Welcome & Announcements
+  - Location/Food & Drinks Sponsor Slot
+  - *OPEN TALK SLOT*
+  - Break
+  - *OPEN TALK SLOT*
+  - Food & Drinks (sponsored by DataGuard), Socializing (open end/as long as the location permits)
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/301144567/"
+website: "https://munich-rubyshift.org"
+timezone: "Europe/Berlin"
+subtitle: "Ruby Meetup July 2024"

@@ -1,0 +1,17 @@
+---
+name: "Trurnit Office"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Balanstraße 73, Haus 10"
+  postal_code: "81541"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Balanstraße 73, Haus 10, 81541 Munich, Germany"
+coordinates:
+  latitude: 48.118054
+  longitude: 11.602434

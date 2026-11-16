@@ -1,0 +1,44 @@
+---
+- id: "introduction-to-the-data-context-interaction-architecture-dci"
+  title: "Introduction to the data, context, interaction architecture (DCI)"
+  date: "2012-12-12"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "introduction-to-the-data-context-interaction-architecture-dci"
+  description: |-
+    Object oriented programming does well capturing state and state changes of classes, it often fails in expressing collaboration between objects, though. This is what the DCI pattern tries to resolve.
+  speakers:
+    - Maikel Lammers
+
+- id: "experteers-webcrawler"
+  title: "Experteers Webcrawler"
+  date: "2012-12-12"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "experteers-webcrawler"
+  description: |-
+    Describing the challenges when crawling other jobsites.
+  speakers:
+    - Daniel Sudmann
+
+- id: "hammering-the-command-line-with-thor"
+  title: "Hammering the command line with Thor"
+  date: "2012-12-12"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "hammering-the-command-line-with-thor"
+  description: |-
+    Ruby is nice for the scripting but doing everything by hand is tedious, so Jim Weirich's Rake is a big improvement when it comes to building tasks, but just not the right thing when it comes to real command line applications... But there is hope, it's called Thor, and it's awesome!
+  speakers:
+    - Phillipp Fehre
+
+- id: "concurrent-scalable-ruby-with-actors-part-i"
+  title: "Concurrent & scalable Ruby with Actors (Part I)"
+  date: "2012-12-12"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "concurrent-scalable-ruby-with-actors-part-i"
+  description: |-
+    Concurrency is hard? Threads are confusing and Ruby is slow? Join me on a journey to find out how to write easy, fast and scalable Ruby programs.
+  speakers:
+    - Robert Kuzelj

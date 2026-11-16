@@ -1,0 +1,23 @@
+---
+- id: "building-the-fastest-application-server"
+  title: "Building the fastest application server"
+  date: "2016-12-14"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "building-the-fastest-application-server"
+  description: |-
+    The presentation will tell about some dark corners of MRI, building native extensions and about an attempt to beat Unicorn/Passenger/Puma in performance.
+  speakers:
+    - Dmitry Gritsay
+
+- id: "ruby-conf-portugal-16-recap"
+  title: "Ruby Conf Portugal '16 - Recap"
+  kind: "talk"
+  date: "2016-12-14"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "ruby-conf-portugal-16-recap"
+  description: |-
+    This talk will give everyone who didn't make it to Ruby Conf Portugal a chance to get an overview over the most interesting topics of the conferences and compare it to other Ruby conferences.
+  speakers:
+    - Kuba Kuźma

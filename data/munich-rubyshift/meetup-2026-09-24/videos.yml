@@ -1,0 +1,22 @@
+---
+- id: "testing-llm-agent-conversations-with-rspec-agents"
+  title: "Testing LLM Agent Conversations with rspec-agents"
+  date: "2026-09-24"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "testing-llm-agent-conversations-with-rspec-agents"
+  description: |-
+    LLM-based agents present unique challenges in terms of validation. The indeterminacy of their outputs makes it impossible to use traditional deterministic assertions. This talk presents the rspec-agents plugin that uses simulated conversations along with rubric-based checks to evaluate the performance of these agents.
+  speakers:
+    - Frederik Fix
+
+- id: "429-too-many-pull-requests"
+  title: "429 Too Many Pull Requests"
+  date: "2026-09-24"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "429-too-many-pull-requests"
+  description: |-
+    Coding agents made work trivial to start and hard to finish. The bottleneck has moved to the one resource that didn't scale: an experienced human who has to read the diff and sign off on it. This talk is about reviewing less and understanding more: a workflow where pull requests contain no surprises and every diff I read is worth my time.
+  speakers:
+    - Henning Koch

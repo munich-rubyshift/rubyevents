@@ -1,0 +1,11 @@
+---
+- id: "i18n-in-rails"
+  title: "I18n in Rails"
+  date: "2018-01-24"
+  language: "English"
+  slides_url: "https://www.dropbox.com/s/wf8ftxkvsz4izpi/I18n.odp?dl=0"
+  video_provider: "not_recorded"
+  video_id: "i18n-in-rails"
+  description: ""
+  speakers:
+    - Dmitry Kulikov

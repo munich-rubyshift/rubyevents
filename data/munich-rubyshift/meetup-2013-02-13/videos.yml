@@ -1,0 +1,37 @@
+---
+- id: "migrating-a-pure-mri-rails-application-to-jruby"
+  title: "Migrating a pure MRI Rails Application to JRuby"
+  date: "2013-02-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "migrating-a-pure-mri-rails-application-to-jruby"
+  description: |-
+    What happens if you substitute your core infrastructure and move to a Java based stack.
+  speakers:
+    - Jason Franklin
+
+- id: "concurrent-scalable-ruby-with-actors-part-ii"
+  title: "Concurrent & scalable Ruby with Actors (Part II)"
+  date: "2013-02-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "concurrent-scalable-ruby-with-actors-part-ii"
+  description: |-
+    Using Celluloid, performance and more.
+  speakers:
+    - Robert Kuzelj
+
+- id: "intro-into-app-net"
+  title: "Intro into App.net"
+  kind: "talk"
+  date: "2013-02-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "intro-into-app-net"
+  description: |-
+    - app.net as an infrastructure
+    - app.net annotations and machine posts
+    - Current status of app.net Ruby gems
+    - Sample application with Sinatra
+  speakers:
+    - Leif Gensert

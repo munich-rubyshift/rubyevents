@@ -1,0 +1,21 @@
+---
+id: "meetup-2014-12-10"
+title: "Munich Rubyshift Meetup December 2014"
+subtitle: "Ruby User Group Meetup"
+location: "Munich, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+description: |-
+  Join us for our December Meetup @experteer!
+
+  After the talks we're making plans for 2015 with everybody.
+start_date: "2014-12-10"
+end_date: "2014-12-10"
+start_time: "19:00"
+end_time: "22:00"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/214247962/"
+coordinates:
+  latitude: 48.141211
+  longitude: 11.5682

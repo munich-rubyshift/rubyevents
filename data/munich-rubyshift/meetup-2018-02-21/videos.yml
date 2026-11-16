@@ -1,0 +1,24 @@
+---
+- id: "alexa-on-rails"
+  title: "Alexa on Rails"
+  date: "2018-02-21"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "alexa-on-rails"
+  description: |-
+    Here is the link to Alexa-rails gem. Take a look and feel free to contribute :)
+
+    <https://github.com/tsrivishnu/alexa-rails>
+  speakers:
+    - Sri Vishnu Totakura
+
+- id: "rspec-vs-tests"
+  title: "RSpec vs. Tests"
+  date: "2018-02-21"
+  language: "English"
+  slides_url: "https://www.dropbox.com/s/ao00pgkcli68ms5/rspecs.odp?dl=0"
+  video_provider: "not_recorded"
+  video_id: "rspec-vs-tests"
+  description: ""
+  speakers:
+    - Dmitry Kulikov

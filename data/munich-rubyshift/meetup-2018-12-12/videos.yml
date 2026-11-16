@@ -1,0 +1,34 @@
+---
+- id: "agile-testing-days-recap"
+  title: "Agile Testing Days Recap"
+  kind: "talk"
+  date: "2018-12-12"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "agile-testing-days-recap"
+  description: |-
+    3 ideas I brought back from the greaTEST conference
+  speakers:
+    - Anastasia Chicu
+
+- id: "async-migrations-on-kubernetes"
+  title: "Async migrations on Kubernetes"
+  date: "2018-12-12"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "async-migrations-on-kubernetes"
+  description: ""
+  speakers:
+    - Oliver Prater
+
+- id: "ruby-news-december-2018"
+  title: "Ruby News December 2018"
+  kind: "lightning_talk"
+  date: "2018-12-12"
+  language: "English"
+  slides_url: "https://github.com/bascht/talks/tree/master/2018-12-munich-rubyshift"
+  video_provider: "not_recorded"
+  video_id: "ruby-news-december-2018"
+  description: ""
+  speakers:
+    - Sebastian Schulze

@@ -1,0 +1,20 @@
+---
+- id: "using-database-replicas-in-rails-using-octopus-gem"
+  title: "Using Database replicas in Rails using octopus gem"
+  date: "2017-01-11"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "using-database-replicas-in-rails-using-octopus-gem"
+  description: ""
+  speakers:
+    - Omar Qunsul
+
+- id: "exploring-web-functionality-and-apis-interactively-with-pry-repl"
+  title: "Exploring web functionality and APIs interactively with pry/REPL"
+  date: "2017-01-11"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "exploring-web-functionality-and-apis-interactively-with-pry-repl"
+  description: ""
+  speakers:
+    - Hendrik

@@ -1,0 +1,23 @@
+---
+id: "meetup-2020-04-15"
+title: "Munich Rubyshift Meetup April 2020"
+subtitle: "Ruby User Group Meetup"
+location: "online"
+timezone: "Europe/Berlin"
+kind: "meetup"
+description: |-
+  Hi everyone! Next week will be our first online meetup!
+
+  We're open for quick ad-hoc lightning talks – please get in touch with Bascht if you want to present something. :-)
+
+  If you want to test your Audio / Video Setup or suggest a talk / topic:
+
+  Bascht will be on Jitsi on Wednesday, April 8th at 7pm CEST.
+start_date: "2020-04-15"
+end_date: "2020-04-15"
+start_time: "19:00"
+end_time: "20:30"
+status: "cancelled"
+website: "https://munich-rubyshift.org"
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/269643042/"
+coordinates: false

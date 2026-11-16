@@ -1,0 +1,17 @@
+---
+name: "riskmethods Office"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Orleansstraße 4"
+  postal_code: "81669"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Orleansstraße 4, 81669 Munich, Germany"
+coordinates:
+  latitude: 48.123539
+  longitude: 11.598284

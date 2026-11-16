@@ -1,0 +1,22 @@
+---
+- id: "is-the-monolith-a-problem"
+  title: "Is the monolith a problem?"
+  date: "2025-10-16"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "is-the-monolith-a-problem"
+  description: |-
+    Discover the truth about monoliths vs microservices! Debunk myths, uncover real architectural differences, and learn strategies to fix the real problems — not just follow trends.
+  speakers:
+    - Chikahiro Tokoro
+
+- id: "a-resource-oriented-file-structure-for-rails"
+  title: "A resource-oriented file structure for Rails"
+  kind: "lightning_talk"
+  date: "2025-10-16"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "a-resource-oriented-file-structure-for-rails"
+  description: ""
+  speakers:
+    - Klaus Weidinger

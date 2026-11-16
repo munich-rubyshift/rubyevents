@@ -1,0 +1,19 @@
+---
+id: "meetup-2017-07-12"
+title: "Munich Rubyshift Meetup July 2017"
+subtitle: "Ruby User Group Meetup"
+location: "Munich, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+description: |-
+  We're always searching for speakers! Want to give a talk at our next meetup? Comment below or send a message to Bascht ([Meetup profile](https://www.meetup.com/Munich-Rubyshift-Ruby-User-Group/members/31318442/))!
+start_date: "2017-07-12"
+end_date: "2017-07-12"
+start_time: "19:00"
+end_time: "22:00"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/238534113/"
+coordinates:
+  latitude: 48.153111
+  longitude: 11.57768

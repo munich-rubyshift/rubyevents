@@ -1,0 +1,20 @@
+---
+- id: "how-i-teach-my-daughter-ruby"
+  title: "How I teach my daughter Ruby"
+  date: "2018-07-18"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "how-i-teach-my-daughter-ruby"
+  description: ""
+  speakers:
+    - Peter Schrammel
+
+- id: "ui-mate-easily-create-a-dynamic-ui-in-your-rails-app-much-faster-than-ever-before"
+  title: "UI Mate: Easily create a dynamic UI in your Rails app much faster than ever before!"
+  date: "2018-07-18"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "ui-mate-easily-create-a-dynamic-ui-in-your-rails-app-much-faster-than-ever-before"
+  description: ""
+  speakers:
+    - Christopher Bastert

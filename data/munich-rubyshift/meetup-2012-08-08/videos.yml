@@ -1,0 +1,35 @@
+---
+- id: "introduction-to-twilio"
+  title: "Introduction to Twilio"
+  date: "2012-08-08"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "introduction-to-twilio"
+  description: |-
+    Talk about twilio (<http://twilio.com>). Twilio brings voice and messaging to your web and mobile applications.
+  speakers:
+    - Christoph Engelhardt
+
+- id: "solving-bizarre-authorization-requirements"
+  title: "Solving bizarre authorization requirements"
+  date: "2012-08-08"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "solving-bizarre-authorization-requirements"
+  description: |-
+    When it comes to user permissions ('who is allowed to do what?') there is no limit to the human imagination. As a development shop that works for a large number of clients, we've seen many strange authorization requirements in the wild. Such requirements tend to be full of case switching and exceptions and can quickly infect other application concerns if you don't pay attention.
+
+    This talk proposes a number of simple design guidelines to deal with the most byzantine authorization requirements in a concise and structured way. These guidelines have been serving us well in many production projects over the years. Code examples will be in Ruby on Rails, but the techniques demonstrated are applicable to other technologies as well.
+  speakers:
+    - Henning Koch
+
+- id: "rails-girls-update"
+  title: "Rails Girls update"
+  kind: "lightning_talk"
+  date: "2012-08-08"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "rails-girls-update"
+  description: ""
+  speakers:
+    - Sara Regan

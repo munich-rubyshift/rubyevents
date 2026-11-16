@@ -1,0 +1,17 @@
+---
+name: "Xempus Office"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Arnulfstraße 126"
+  postal_code: "80636"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Arnulfstraße 126, 80636 Munich, Germany"
+coordinates:
+  latitude: 48.146397
+  longitude: 11.537623

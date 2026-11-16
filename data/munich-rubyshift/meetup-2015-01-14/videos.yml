@@ -1,0 +1,21 @@
+---
+- id: "zookeeper-in-your-rails-stack"
+  title: "Zookeeper in your Rails stack"
+  date: "2015-01-14"
+  language: "English"
+  slides_url: "https://slides.com/d/N6FyLac/live"
+  video_provider: "not_recorded"
+  video_id: "zookeeper-in-your-rails-stack"
+  description: ""
+  speakers:
+    - Peter Schrammel
+
+- id: "a-rukuli-bot"
+  title: "A Rukuli bot"
+  date: "2015-01-14"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "a-rukuli-bot"
+  description: ""
+  speakers:
+    - Oleg

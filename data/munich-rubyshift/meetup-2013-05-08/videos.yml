@@ -1,0 +1,33 @@
+---
+- id: "writing-hard-migrations-in-rails"
+  title: "Writing hard migrations in Rails"
+  date: "2013-05-08"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "writing-hard-migrations-in-rails"
+  description: |-
+    Rails migrations let you change your database schema with simple commands like `create_table` or `add_column`. Unfortunately these commands are not expressive enough to handle cases where existing data must be processed and moved around tables. This talk shows different techniques you can use to describe nontrivial migrations in Rails.
+  speakers:
+    - Henning Koch
+
+- id: "lighting-fast-rails-with-zeus"
+  title: "Lighting fast Rails with zeus"
+  date: "2013-05-08"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "lighting-fast-rails-with-zeus"
+  description: |-
+    Starting up Rails is crazy slow! Sometimes I drag to use some tools just because they startup Rails and it takes like 30 sec. It's bad, and it breaks flow. Zeus is here to change this by giving you a fast way to run your rails environment.
+  speakers:
+    - Phillipp Fehre
+
+- id: "metrics-what-are-they-good-for"
+  title: "Metrics - What are they good for?"
+  date: "2013-05-08"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "metrics-what-are-they-good-for"
+  description: |-
+    It's risky to use metrics in your projects. But the risks are often used as an excuse not to use metrics. So what's a good way to use metrics? Hopefully this talks will shed a light on this question.
+  speakers:
+    - Leif Gensert

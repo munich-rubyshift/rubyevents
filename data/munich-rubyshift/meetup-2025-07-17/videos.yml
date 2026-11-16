@@ -1,0 +1,26 @@
+---
+- id: "hotwire-native"
+  title: "Hotwire Native"
+  date: "2025-07-17"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "hotwire-native"
+  description: |-
+    An introduction about Hotwire Native. A tool from 37signals to convert your fullstack Rails application into a mobile app.
+  speakers:
+    - Aron Wolf
+
+- id: "using-database-views-in-rails-and-why-you-should-or-shouldn-t-do-it"
+  title: "Using database views in Rails and why you should (or shouldn't) do it"
+  date: "2025-07-17"
+  language: "English"
+  slides_url: "https://github.com/clemenshelm/rubyshop"
+  video_provider: "not_recorded"
+  video_id: "using-database-views-in-rails-and-why-you-should-or-shouldn-t-do-it"
+  description: |-
+    Complex data filtering in Rails often leads us down a rabbit hole of custom scopes, service objects, and Arel acrobatics. But what if we let the database do what it’s best at? In this talk, you’ll see how SQL views paired with plain ActiveRecord and Ransack can turn messy logic into elegant, powerful queries — without giving up the Rails way.
+
+    About our speaker:\
+    Clemens Helm is a seasoned Rails developer from Vienna who believes good code is boring — in the best way. At railscraft.de, he helps teams modernize legacy Rails apps with clean architecture, sharp tools, and zero-nonsense pragmatism.
+  speakers:
+    - Clemens Helm

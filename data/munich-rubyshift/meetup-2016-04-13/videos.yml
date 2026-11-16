@@ -1,0 +1,44 @@
+---
+- id: "speeding-up-rails"
+  title: "Speeding up Rails"
+  date: "2016-04-13"
+  language: "English"
+  slides_url: "https://speakerdeck.com/sadiksha/all-you-need-is-performance."
+  video_provider: "not_recorded"
+  video_id: "speeding-up-rails"
+  description: ""
+  speakers:
+    - Sadiksha Gautam
+
+- id: "rubocop"
+  title: "RuboCop"
+  kind: "lightning_talk"
+  date: "2016-04-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "rubocop"
+  description: ""
+  speakers:
+    - Mario Fernandez
+
+- id: "microservices-metoda-com"
+  title: "Microservices @ metoda.com"
+  date: "2016-04-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "microservices-metoda-com"
+  description: ""
+  speakers:
+    - Peter Schrammel
+
+- id: "ruby-news-april-2016"
+  title: "Ruby News April 2016"
+  kind: "lightning_talk"
+  date: "2016-04-13"
+  language: "English"
+  slides_url: "https://github.com/bascht/talks/tree/master/2016-04-munich-rubyshift"
+  video_provider: "not_recorded"
+  video_id: "ruby-news-april-2016"
+  description: ""
+  speakers:
+    - Sebastian Schulze

@@ -1,0 +1,17 @@
+---
+name: "makandra Office"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Melli-Beese-Straße 5"
+  postal_code: "86159"
+  city: "Augsburg"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Melli-Beese-Straße 5, 86159 Augsburg, Germany"
+coordinates:
+  latitude: 48.338403
+  longitude: 10.902191

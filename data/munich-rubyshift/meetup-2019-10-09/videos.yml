@@ -1,0 +1,11 @@
+---
+- id: "fullstack-web-development-in-pure-ruby-with-matestack-ui-core"
+  title: "Fullstack Web Development in pure Ruby with Matestack::Ui::Core"
+  date: "2019-10-09"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "fullstack-web-development-in-pure-ruby-with-matestack-ui-core"
+  description: |-
+    Bored of ERB files or the REST+SPA overkill? Have we got something for you! With Matestack, we aim to bring component-based, declarative views to Rails. Learn how to write less code and create interactive user interfaces in pure Ruby.
+  speakers:
+    - Pascal Wengerter

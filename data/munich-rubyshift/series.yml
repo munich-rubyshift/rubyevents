@@ -1,27 +1,15 @@
 ---
 id: "munich-rubyshift"
-old_event_ids:
-  - "munich-rubyshift-meetup"
-  - "munich-rubyshift"
 name: "Munich Rubyshift"
-location: "Munich, Germany"
 timezone: "Europe/Berlin"
 website: "https://munich-rubyshift.org"
 kind: "meetup"
 language: "English"
-twitter: "muc_rubyshift"
 default_country_code: "DE"
-meetup: "https://www.meetup.com/munich-rubyshift-ruby-user-group"
+meetup: "https://www.meetup.com/de-DE/munich-rubyshift-ruby-user-group/"
 github: "https://github.com/munich-rubyshift"
-original_website: "https://web.archive.org/web/20131020060833/http://munich.rubyshift.org/"
-linkedin: "https://www.linkedin.com/groups/15477023/"
+linkedin: "https://www.linkedin.com/groups/15477023"
+ended: false
 banner_background: "#DE2810"
 featured_background: "#9A0100"
 featured_color: "#FFFFFF"
-coordinates:
-  latitude: 48.1351253
-  longitude: 11.5819806
-feeds:
-  - type: "ical"
-    url: "https://www.meetup.com/munich-rubyshift-ruby-user-group/events/ical/"
-    name: "Meetup.com"

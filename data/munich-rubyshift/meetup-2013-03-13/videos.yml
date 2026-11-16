@@ -1,0 +1,33 @@
+---
+- id: "the-raspberry-pi-take-a-byte"
+  title: "The Raspberry Pi - Take a byte"
+  date: "2013-03-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "the-raspberry-pi-take-a-byte"
+  description: |-
+    One year ago the first Raspberry Pi was shipped. Its a success story. We'll discover why, what it is and what cool stuff you can do with it!
+  speakers:
+    - Carola Boettcher
+
+- id: "rubinius-seemingly-the-same-but-completely-different"
+  title: "Rubinius — seemingly the same but completely different"
+  date: "2013-03-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "rubinius-seemingly-the-same-but-completely-different"
+  description: |-
+    In this talk I'll compare Rubinius with MRI, the canonical Ruby implementation. I'll present things which make it different and discuss how technical decisions made by the Rubinius team affect the performance of the whole virtual machine.
+  speakers:
+    - Jan Stępień
+
+- id: "the-all-mighty-rake"
+  title: "The all mighty Rake"
+  date: "2013-03-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "the-all-mighty-rake"
+  description: |-
+    An introduction for Ruby beginners and tips and tricks for advanced Rakefiles.
+  speakers:
+    - Konrad Merz

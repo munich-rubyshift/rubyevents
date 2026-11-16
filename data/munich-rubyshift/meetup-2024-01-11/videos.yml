@@ -1,0 +1,26 @@
+---
+- id: "inertia-the-healthy-middleground-between-a-rails-monolith-and-a-single-page-application"
+  title: "Inertia -- The healthy middleground between a Rails Monolith and a Single Page Application?"
+  date: "2024-01-11"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "inertia-the-healthy-middleground-between-a-rails-monolith-and-a-single-page-application"
+  description: |-
+    Can we strike a balance between the simplicity of a Rails Monolith and the flexibility that a Single Page Application? And can we do so while keeping both Backend Rubyists and Frontend React/Vue people reasonably happy? Let's find out together.
+
+    About our speaker:\
+    Clemens Kofler is a Director of Engineering at DataGuard.
+  speakers:
+    - Clemens Kofler
+
+- id: "intuitive-client-errors-driven-by-backend"
+  title: "Intuitive Client Errors Driven by Backend"
+  date: "2024-01-11"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "intuitive-client-errors-driven-by-backend"
+  description: |-
+    About our speaker:\
+    Khaled Muamar is a Backend Engineer at Freeletics.
+  speakers:
+    - Khaled Muamar

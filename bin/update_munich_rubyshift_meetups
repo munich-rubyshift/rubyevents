@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+if command -v mise &> /dev/null; then
+  eval "$(mise activate bash)"
+fi
+
+# The group's API owns data/munich-rubyshift/ and wins in data/speakers.yml, see lib/munich_rubyshift_import.rb.
+bin/rails runner 'MunichRubyshiftImport.new.run.each { |line| puts line }'
+
+# yerba apply leaves a file that breaks its schema as the import wrote it. CI reports those files on the PR.
+if ! bundle exec yerba apply $(find data/munich-rubyshift -name "*.yml") data/speakers.yml; then
+  echo "Some files don't match RubyEvents' schemas yet, see above. CI will report them on the PR."
+fi
+
+git add data/munich-rubyshift data/speakers.yml
+
+if git diff --cached --quiet; then
+  echo "No Munich Rubyshift changes to commit."
+  exit 0
+fi
+
+git commit -m "Update Munich Rubyshift"

@@ -1,0 +1,20 @@
+---
+- id: "one-app-fits-all-single-vs-multi-tenancy"
+  title: "One App Fits All: Single vs. Multi Tenancy"
+  date: "2018-03-14"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "one-app-fits-all-single-vs-multi-tenancy"
+  description: ""
+  speakers:
+    - Marina Petrova
+
+- id: "halunke-or-how-and-why-i-built-a-programming-language"
+  title: "Halunke, or: How and why I built a programming language"
+  date: "2018-03-14"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "halunke-or-how-and-why-i-built-a-programming-language"
+  description: ""
+  speakers:
+    - Lucas Dohmen

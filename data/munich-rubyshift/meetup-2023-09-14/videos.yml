@@ -1,0 +1,14 @@
+---
+- id: "rails-unwired-neural-networks-in-ruby"
+  title: "Rails Unwired: Neural Networks in Ruby"
+  date: "2023-09-14"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "rails-unwired-neural-networks-in-ruby"
+  description: |-
+    This will be a beginner-friendly talk on the topic of Neural Networks and how to connect them with Ruby/Rails.
+
+    About our speaker:\
+    Bruno Brunckhorst is a Program Manager & Data Scientist at Le Wagon in Munich.
+  speakers:
+    - Bruno Brunckhorst

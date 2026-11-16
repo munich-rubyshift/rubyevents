@@ -1,0 +1,32 @@
+---
+- id: "not-omakase-padrino"
+  title: "Not Omakase – Padrino"
+  date: "2016-01-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "not-omakase-padrino"
+  description: ""
+  speakers:
+    - Florian Gilcher
+
+- id: "mruby-a-short-introduction"
+  title: "MRuby - a short introduction"
+  date: "2016-01-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "mruby-a-short-introduction"
+  description: ""
+  speakers:
+    - Peter Schrammel
+
+- id: "ruby-news-january-2016"
+  title: "Ruby News January 2016"
+  kind: "lightning_talk"
+  date: "2016-01-13"
+  language: "English"
+  slides_url: "https://github.com/bascht/talks/tree/master/2016-01-munich-rubyshift"
+  video_provider: "not_recorded"
+  video_id: "ruby-news-january-2016"
+  description: ""
+  speakers:
+    - Sebastian Schulze

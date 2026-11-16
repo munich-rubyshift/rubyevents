@@ -1,0 +1,35 @@
+---
+- id: "recap-of-the-fullstack-fest-anastasia"
+  title: "Recap of the FullStack Fest Anastasia"
+  kind: "talk"
+  date: "2016-09-14"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "recap-of-the-fullstack-fest-anastasia"
+  description: ""
+  speakers:
+    - Mario Fernandez
+
+- id: "agile-testing-at-xing"
+  title: "Agile testing at XING"
+  date: "2016-09-14"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "agile-testing-at-xing"
+  description: ""
+  speakers:
+    - Anastasia Chicu
+
+- id: "how-to-improve-rails-translations"
+  title: "How to improve Rails translations"
+  date: "2016-09-14"
+  language: "English"
+  slides_url: "https://drive.google.com/open?id=190WrMGEbIXeJabEMKb09fk-jTdS_h_KZdqkhv8z-ih4"
+  video_provider: "not_recorded"
+  video_id: "how-to-improve-rails-translations"
+  description: |-
+    Some resource: <http://guides.rubyonrails.org/i18n.html>
+
+    See: 6 Customize your I18n Setup
+  speakers:
+    - Omar Qunsul

@@ -1,0 +1,17 @@
+---
+name: "PHAROS Office"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Türkenstraße 89"
+  postal_code: "80799"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Türkenstraße 89, 80799 Munich, Germany"
+coordinates:
+  latitude: 48.153111
+  longitude: 11.57768

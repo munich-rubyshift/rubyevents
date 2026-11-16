@@ -1,0 +1,31 @@
+---
+- id: "onboarding-new-developers-successfully"
+  title: "Onboarding new developers successfully"
+  date: "2014-12-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "onboarding-new-developers-successfully"
+  description: ""
+  speakers:
+    - Ilya Krasnov
+
+- id: "logging-it-seems-so-simple"
+  title: "Logging - it seems so simple"
+  date: "2014-12-10"
+  language: "English"
+  slides_url: "https://slides.com/pschrammel/logging-rug"
+  video_provider: "not_recorded"
+  video_id: "logging-it-seems-so-simple"
+  description: ""
+  speakers:
+    - Peter Schrammel
+
+- id: "2014-in-ruby"
+  title: "2014 in Ruby"
+  date: "2014-12-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "2014-in-ruby"
+  description: ""
+  speakers:
+    - Mathias Huber

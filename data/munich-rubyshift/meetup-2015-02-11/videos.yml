@@ -1,0 +1,11 @@
+---
+- id: "rails-and-ember-js"
+  title: "Rails and Ember.js"
+  date: "2015-02-11"
+  language: "English"
+  slides_url: "https://speakerdeck.com/marcoow/rails-and-ember-dot-js"
+  video_provider: "not_recorded"
+  video_id: "rails-and-ember-js"
+  description: ""
+  speakers:
+    - Marco Otto-Witte

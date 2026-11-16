@@ -1,0 +1,22 @@
+---
+- id: "introducing-cockroachdb-tidb"
+  title: "Introducing CockroachDB & TiDB"
+  date: "2017-12-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "introducing-cockroachdb-tidb"
+  description: ""
+  speakers:
+    - Marius Nünnerich
+
+- id: "adding-graphs-to-redis"
+  title: "Adding Graphs to Redis"
+  date: "2017-12-13"
+  language: "English"
+  slides_url: "https://drive.google.com/open?id=1l-nMNu7W-cc6hVngAbwarvHgrzDspzilkF1tsuwggbc"
+  video_provider: "not_recorded"
+  video_id: "adding-graphs-to-redis"
+  description: |-
+    Slides: <http://bit.ly/2jSkBXO>
+  speakers:
+    - Omar Qunsul

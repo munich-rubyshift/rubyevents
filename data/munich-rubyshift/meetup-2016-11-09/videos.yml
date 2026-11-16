@@ -1,0 +1,22 @@
+---
+- id: "computer-science-101-things-every-programmer-should-know"
+  title: "Computer Science 101: Things every programmer should know"
+  date: "2016-11-09"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "computer-science-101-things-every-programmer-should-know"
+  description: |-
+    About integer and floating point arithmetic, trying to cover how to work with numbers from processor, memory and user perspective.
+  speakers:
+    - Alex Petrov
+
+- id: "software-estimates-that-suck-less"
+  title: "Software estimates that suck less"
+  date: "2016-11-09"
+  language: "English"
+  slides_url: "https://triskweline.de/estimation-slides/#/"
+  video_provider: "not_recorded"
+  video_id: "software-estimates-that-suck-less"
+  description: ""
+  speakers:
+    - Henning Koch

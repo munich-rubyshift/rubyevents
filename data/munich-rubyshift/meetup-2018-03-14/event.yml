@@ -1,0 +1,21 @@
+---
+id: "meetup-2018-03-14"
+title: "Munich Rubyshift Meetup March 2018"
+subtitle: "Ruby User Group Meetup"
+location: "Munich, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+description: |-
+  We have a full line-up planned for this meetup, so: buckle up!
+
+  Pizza and drinks are taken care of. Doors at 7pm. We're looking forward to y'all!
+start_date: "2018-03-14"
+end_date: "2018-03-14"
+start_time: "19:00"
+end_time: "22:00"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/247415805/"
+coordinates:
+  latitude: 48.13822
+  longitude: 11.550026

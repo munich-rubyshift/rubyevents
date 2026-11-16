@@ -1,0 +1,21 @@
+---
+id: "meetup-2018-01-24"
+title: "Munich Rubyshift Meetup January 2018"
+subtitle: "Ruby User Group Meetup"
+location: "Munich, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+description: |-
+  As it's January, this will be our traditional RubyKaraoke Meetup: At about ~10:30pm we will go to Ratchada near Hauptbahnhof for some Ruby Karaoke! <http://www.ratchada.de/karaoke/>
+
+  There is still one slot open for a short talk. Leave a comment or ping us on Twitter if you want to prepare something!
+start_date: "2018-01-24"
+end_date: "2018-01-24"
+start_time: "19:00"
+end_time: "21:00"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/246244986/"
+coordinates:
+  latitude: 48.138987
+  longitude: 11.554181

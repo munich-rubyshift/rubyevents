@@ -1,0 +1,17 @@
+---
+name: "Shore Office"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Rosenheimer Straße 145e"
+  postal_code: "81671"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Rosenheimer Straße 145e, 81671 Munich, Germany"
+coordinates:
+  latitude: 48.12418
+  longitude: 11.601639

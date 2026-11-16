@@ -1,0 +1,19 @@
+---
+id: "meetup-2020-02-12"
+title: "Munich Rubyshift Meetup February 2020"
+subtitle: "Ruby User Group Meetup"
+location: "Munich, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+description: |-
+  We're always searching for speakers! Want to give a talk at our next meetup? Get in touch!
+start_date: "2020-02-12"
+end_date: "2020-02-12"
+start_time: "19:00"
+end_time: "21:00"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/268082288/"
+coordinates:
+  latitude: 48.146212
+  longitude: 11.56175

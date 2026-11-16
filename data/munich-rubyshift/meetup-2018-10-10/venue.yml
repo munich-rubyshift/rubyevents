@@ -1,0 +1,17 @@
+---
+name: "xbAV Office"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Martin-Greif-Straße 1"
+  postal_code: "80336"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Martin-Greif-Straße 1, 80336 Munich, Germany"
+coordinates:
+  latitude: 48.13822
+  longitude: 11.550026

@@ -1,0 +1,30 @@
+---
+- id: "mobile-development-xing"
+  title: "Mobile Development @XING"
+  date: "2017-05-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "mobile-development-xing"
+  description: ""
+  speakers:
+    - Jason Franklin
+
+- id: "introduction-to-mruby"
+  title: "Introduction to MRuby"
+  date: "2017-05-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "introduction-to-mruby"
+  description: ""
+  speakers:
+    - Florin Oltean
+
+- id: "pimp-your-rest-api-docs-with-swagger"
+  title: "Pimp your REST API Docs with Swagger"
+  date: "2017-05-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "pimp-your-rest-api-docs-with-swagger"
+  description: ""
+  speakers:
+    - Niko Noll

@@ -1,0 +1,17 @@
+---
+name: "ThoughtWorks Office"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Bothestraße 11"
+  postal_code: "81675"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Bothestraße 11, 81675 Munich, Germany"
+coordinates:
+  latitude: 48.135449
+  longitude: 11.613636

@@ -1,0 +1,27 @@
+---
+name: "Le Wagon Munich Coding Bootcamp"
+instructions: |-
+  As the neue Balan campus is quite extensive, here some tips to make sure everyone gets here without issues:
+
+  The easiest way to locate us is to pop the location in Google Maps, the pin is very accurate.
+
+  The location is in the 4th floor.
+
+  When coming by U-Bahn (Karl Preis Platz) take the entrance onto the campus from Claudius Keller Straße. After 150 meters, you will find Haus 21A on your left hand side.
+
+  For those arriving by car, there is a large parking garage located on campus, by the northern entrance (St. Martin Straße 112).
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Balanstraße 73, Haus 21A"
+  postal_code: "81541"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Balanstraße 73, Haus 21A, 81541 Munich, Germany"
+coordinates:
+  latitude: 48.119247
+  longitude: 11.601759

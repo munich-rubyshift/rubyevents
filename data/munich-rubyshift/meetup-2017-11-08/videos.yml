@@ -1,0 +1,21 @@
+---
+- id: "orchparty-program-your-orchestration-config"
+  title: "Orchparty: program your orchestration config"
+  date: "2017-11-08"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "orchparty-program-your-orchestration-config"
+  description: ""
+  speakers:
+    - Jannis Hübl
+
+- id: "property-based-testing"
+  title: "Property-based testing"
+  date: "2017-11-08"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "property-based-testing"
+  description: |-
+    You won’t look at your tests the same way ever again.
+  speakers:
+    - Jan Stępień

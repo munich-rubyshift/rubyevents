@@ -1,0 +1,17 @@
+---
+name: "Orceo Office"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Landsbergerstraße 398"
+  postal_code: "80687"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Landsbergerstraße 398, 80687 Munich, Germany"
+coordinates:
+  latitude: 48.145671
+  longitude: 11.482371

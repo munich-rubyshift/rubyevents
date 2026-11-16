@@ -1,0 +1,18 @@
+---
+name: "Bar Niederlassung"
+url: "http://niederlassung.org/about-2/lage/"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Buttermelcherstraße 6"
+  postal_code: "80469"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Buttermelcherstraße 6, 80469 Munich, Germany"
+coordinates:
+  latitude: 48.13268
+  longitude: 11.577299

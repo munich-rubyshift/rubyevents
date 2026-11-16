@@ -1,0 +1,33 @@
+---
+- id: "actioncable"
+  title: "ActionCable"
+  date: "2015-12-09"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "actioncable"
+  description: ""
+  speakers:
+    - Peter Schrammel
+
+- id: "ruby-news-december-2015"
+  title: "Ruby News December 2015"
+  kind: "lightning_talk"
+  date: "2015-12-09"
+  language: "English"
+  slides_url: "https://github.com/bascht/talks/tree/master/2015-12-munich-rubyshift"
+  video_provider: "not_recorded"
+  video_id: "ruby-news-december-2015"
+  description: ""
+  speakers:
+    - Sebastian Schulze
+
+- id: "refugees-on-rails-munich"
+  title: "Refugees on Rails @ Munich"
+  date: "2015-12-09"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "refugees-on-rails-munich"
+  description: |-
+    Talk by Michael, Pau, Phillip
+  speakers:
+    - Phillip Oertel

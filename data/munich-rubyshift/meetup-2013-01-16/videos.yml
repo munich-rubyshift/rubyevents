@@ -1,0 +1,59 @@
+---
+- id: "slow-migrations"
+  title: "Slow Migrations"
+  kind: "lightning_talk"
+  date: "2013-01-16"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "slow-migrations"
+  description: |-
+    How to cope with database migrations that a take long time. (Tapas-style talk)
+  speakers:
+    - Peter Schrammel
+
+- id: "learning-ruby-and-rails-or-where-are-the-curly-braces"
+  title: "Learning Ruby and Rails or Where are the curly braces?"
+  date: "2013-01-16"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "learning-ruby-and-rails-or-where-are-the-curly-braces"
+  description: |-
+    Challenges and epiphanies when learning Ruby and Ruby On Rails as a newbie coming from Java. A fresh, first hand experience report.
+  speakers:
+    - Carola Boettcher
+
+- id: "how-to-not-use-traits"
+  title: "How to not use traits"
+  kind: "lightning_talk"
+  date: "2013-01-16"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "how-to-not-use-traits"
+  description: |-
+    Every time you write a trait a kitten dies or how to abuse traits. (Tapas-style talk)
+  speakers:
+    - Robert Curth
+
+- id: "a-byte-on-git-bisect"
+  title: "A byte on git bisect"
+  kind: "lightning_talk"
+  date: "2013-01-16"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "a-byte-on-git-bisect"
+  description: |-
+    A tapas on finding Bugs with git.
+  speakers:
+    - Konrad Merz
+
+- id: "infrastructure-as-code-with-opscode-chef"
+  title: "Infrastructure as Code with Opscode Chef"
+  kind: "lightning_talk"
+  date: "2013-01-16"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "infrastructure-as-code-with-opscode-chef"
+  description: |-
+    You don't know how to re-build your servers? Time to automate your infrastructure. (Tapas-style talk)
+  speakers:
+    - Matthias Marshall

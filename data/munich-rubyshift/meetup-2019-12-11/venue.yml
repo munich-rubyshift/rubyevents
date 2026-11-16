@@ -1,0 +1,17 @@
+---
+name: "Christkindlmarkt am Sendlinger Tor"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Sendlinger-Tor-Platz 1"
+  postal_code: "80336"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Sendlinger-Tor-Platz 1, 80336 Munich, Germany"
+coordinates:
+  latitude: 48.133142
+  longitude: 11.567197

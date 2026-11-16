@@ -1,0 +1,12 @@
+---
+- id: "tdd-or-not-to-be"
+  title: "TDD or not to be"
+  date: "2014-07-09"
+  language: "English"
+  slides_url: "https://slides.com/jakubnieznalski/tdd-or-not-to-be"
+  video_provider: "not_recorded"
+  video_id: "tdd-or-not-to-be"
+  description: |-
+    A talk on TDD and code quality
+  speakers:
+    - Jakub Nieznalski

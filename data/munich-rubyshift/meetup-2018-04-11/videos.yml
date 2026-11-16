@@ -1,0 +1,23 @@
+---
+- id: "a-user-manual-to-working-better-with-a-tester"
+  title: "A user manual to working better with a tester"
+  date: "2018-04-11"
+  language: "English"
+  slides_url: "https://github.com/deepblueness/myTalks/blob/master/RUG_tester_guide.pdf"
+  video_provider: "not_recorded"
+  video_id: "a-user-manual-to-working-better-with-a-tester"
+  description: |-
+    The books that I mentioned were 'Explore It! Reduce Risk and Increase Confidence with Exploratory Testing' by Elisabeth Hendrickson and 'Lessons Learned in Software Testing' by Bret Pettichord, Cem Kaner, and James Marcus Bach
+  speakers:
+    - Anastasia Chicu
+
+- id: "migrate-a-rails-backend-to-a-service"
+  title: "Migrate a Rails-Backend to a Service"
+  date: "2018-04-11"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "migrate-a-rails-backend-to-a-service"
+  description: |-
+    Thomas & Flo
+  speakers:
+    - Thomas Mayrhofer

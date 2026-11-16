@@ -1,0 +1,21 @@
+---
+- id: "the-new-jit-compiler-in-ruby-2-6-0"
+  title: "The new JIT compiler in Ruby 2.6.0"
+  date: "2019-01-09"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "the-new-jit-compiler-in-ruby-2-6-0"
+  description: ""
+  speakers:
+    - Peter Schrammel
+
+- id: "updates-in-gds-0-8-0"
+  title: "Updates in GDS 0.8.0"
+  date: "2019-01-09"
+  language: "English"
+  slides_url: "https://urasepandia.de/download/gds-general_data_structure-201901.pdf"
+  video_provider: "not_recorded"
+  video_id: "updates-in-gds-0-8-0"
+  description: ""
+  speakers:
+    - Uli Ramminger

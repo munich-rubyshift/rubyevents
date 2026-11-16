@@ -1,0 +1,40 @@
+---
+- id: "banking-with-ruby"
+  title: "Banking with Ruby"
+  date: "2016-03-09"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "banking-with-ruby"
+  description: ""
+  speakers:
+    - Marc G.
+
+- id: "a-journey-into-code"
+  title: "A journey into code"
+  date: "2016-03-09"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "a-journey-into-code"
+  description: ""
+  speakers:
+    - Ute Mayer
+
+- id: "how-to-kill-a-project"
+  title: "How to kill a project"
+  date: "2016-03-09"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "how-to-kill-a-project"
+  description: ""
+  speakers:
+    - Alberto Martín Mazaira
+
+- id: "codegolfing"
+  title: "Codegolfing"
+  date: "2016-03-09"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "codegolfing"
+  description: ""
+  speakers:
+    - Lucas Dohmen

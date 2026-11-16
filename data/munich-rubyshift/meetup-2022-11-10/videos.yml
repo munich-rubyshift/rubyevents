@@ -1,0 +1,12 @@
+---
+- id: "reasoning-about-code-and-configuration"
+  title: "Reasoning about code and configuration"
+  date: "2022-11-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "reasoning-about-code-and-configuration"
+  description: |-
+    About our speaker:\
+    Oliver Prater is a Software Engineer at Xempus.
+  speakers:
+    - Oliver Prater

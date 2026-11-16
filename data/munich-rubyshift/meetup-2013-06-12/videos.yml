@@ -1,0 +1,33 @@
+---
+- id: "refactoring-using-rubymine-an-indepth-view-behind-the-curtain"
+  title: "Refactoring using RubyMine (an indepth view behind the curtain)"
+  date: "2013-06-12"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "refactoring-using-rubymine-an-indepth-view-behind-the-curtain"
+  description: |-
+    Nobody likes when their code smells. In order to prevent it, a bunch of special tools and approaches have been designed. Efficient coding tools, refactorings, code metrics, code analysis, code testing and debugging are all crucial for creating quality, maintainable code. This talk is meant to show how to efficiently detect code problems, eliminate them using refactoring, and validate everything after changes.
+  speakers:
+    - Anna Bulenkova
+
+- id: "the-client-side-on-ruby"
+  title: "The Client-Side on Ruby"
+  date: "2013-06-12"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "the-client-side-on-ruby"
+  description: |-
+    What options does Ruby offer to serve client-side web applications? Using Backbone.js I will show the elements of a client-side web application (events, rendering, data transport), how Rack and Sinatra can be used to serve directories of JavaScript files. Lastly I show the relationship between Rack, Sprockets and the Asset Pipeline and RequireJS-Rails.
+  speakers:
+    - Patrick Mulder
+
+- id: "topaz-is-ruby-in-python"
+  title: "Topaz is Ruby in Python"
+  date: "2013-06-12"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "topaz-is-ruby-in-python"
+  description: |-
+    Topaz is a high performance implementation of the Ruby programming language, written in Python on top of RPython. Let's see a) what does it actually mean, b) how does it work, and c) how you can make it better.
+  speakers:
+    - Jan Stępień

@@ -1,0 +1,20 @@
+---
+- id: "interacting-with-kubernetes-via-ruby"
+  title: "Interacting with Kubernetes via Ruby"
+  date: "2020-02-12"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "interacting-with-kubernetes-via-ruby"
+  description: ""
+  speakers:
+    - Oliver Prater
+
+- id: "refactoring-service-and-query-objects-in-rails"
+  title: "Refactoring service and query objects in Rails"
+  date: "2020-02-12"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "refactoring-service-and-query-objects-in-rails"
+  description: ""
+  speakers:
+    - Aron Wolf

@@ -1,0 +1,21 @@
+---
+- id: "hanami-in-production-one-year-later"
+  title: "Hanami in production - One year later"
+  date: "2018-06-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "hanami-in-production-one-year-later"
+  description: ""
+  speakers:
+    - Ben Bachhuber
+
+- id: "learnings-js"
+  title: "learnings.js"
+  date: "2018-06-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "learnings-js"
+  description: |-
+    Concepts and architectural insights from frontend JavaScript frameworks
+  speakers:
+    - Niko Noll

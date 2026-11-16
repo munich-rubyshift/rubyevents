@@ -1,0 +1,17 @@
+---
+name: "IT:Agenten Office"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Blutenburgstraße 43"
+  postal_code: "80636"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Blutenburgstraße 43, 80636 Munich, Germany"
+coordinates:
+  latitude: 48.149309
+  longitude: 11.540362

@@ -1,0 +1,39 @@
+---
+id: "meetup-2026-11-12"
+title: "Munich Rubyshift Meetup November 2026"
+subtitle: "Ruby Meetup November 2026"
+location: "Munich, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+description: |-
+  Dear Munich Rubyists,
+
+  the leaves are turning brown again, so it's high time for this year's November edition of our meetup!
+
+  This time, Experteer GmbH will be our hosts for location, food & drinks. Thank you Shota for establishing the contact!
+
+  Looking forward to seeing you all in November!
+
+  Discord group: <https://discord.gg/EKqHWmCxGZ>
+
+  Agenda:
+  - Welcome
+  - Location/Food & Drinks Sponsor Slot
+  - Food & Drinks (sponsored by Experteer GmbH)
+  - Talk 1: "Ruby Interpreters in Comparison and an Introduction to Four Concurrency Models in Ruby" by Marcus Poller
+  - Break
+  - *OPEN TALK SLOT*
+  - Socializing (open end/as long as the location permits)
+
+  Talk 1: "Ruby Interpreters in Comparison and an Introduction to Four Concurrency Models in Ruby" by Marcus Poller
+  - This talk will cover CRuby, JRuby, and TruffleRuby (and explain why the rest are just toys). It will also dive into the concurrent-ruby library, Ractors, Threads, Fibers, and Processes.
+start_date: "2026-11-12"
+end_date: "2026-11-12"
+start_time: "18:30"
+end_time: "21:30"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/316993952/"
+coordinates:
+  latitude: 48.141211
+  longitude: 11.5682

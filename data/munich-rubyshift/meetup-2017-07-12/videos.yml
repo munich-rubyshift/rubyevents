@@ -1,0 +1,35 @@
+---
+- id: "load-testing-with-1-000-000-users"
+  title: "Load Testing with 1,000,000 Users"
+  date: "2017-07-12"
+  language: "English"
+  slides_url: "https://speakerdeck.com/tisba/load-testing-with-1-000-000-users"
+  video_provider: "not_recorded"
+  video_id: "load-testing-with-1-000-000-users"
+  description: |-
+    About our speaker:\
+    Sebastian Cohnen (StormForger)
+  speakers:
+    - Sebastian Cohnen
+
+- id: "measure-your-side-project-web-performance-without-spending-shit-loads-of-money"
+  title: "Measure your side project web-performance without spending shit**loads of money"
+  date: "2017-07-12"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "measure-your-side-project-web-performance-without-spending-shit-loads-of-money"
+  description: ""
+  speakers:
+    - Jannis Hübl
+
+- id: "ruby-news-july-2017"
+  title: "Ruby News July 2017"
+  kind: "lightning_talk"
+  date: "2017-07-12"
+  language: "English"
+  slides_url: "https://github.com/bascht/talks/blob/master/2017-07-munich-rubyshift/README.org"
+  video_provider: "not_recorded"
+  video_id: "ruby-news-july-2017"
+  description: ""
+  speakers:
+    - Sebastian Schulze

@@ -1,0 +1,32 @@
+---
+id: "meetup-2022-07-14"
+title: "Munich Rubyshift Meetup July 2022"
+subtitle: "Ruby Meetup - RELAUNCH!"
+location: "Munich, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+description: |-
+  Dear Munich Rubyists,
+
+  I don't know about you, but I think it's high time that we meet again!
+
+  The first meetup in almost 2 years has been tentatively scheduled for July 14. (I've moved it from the 2nd Wednesday to the 2nd Thursday of the month, because several people in the past have mentioned that Wednesday isn't ideal.)
+
+  Agenda:
+  - Welcome & Announcements (10')
+  - Location/Food & Drinks Sponsor Slot (5')
+  - Talk 1: Raounak Sharma (45')
+  - *OPEN TALK SLOT* (15‘)
+  - Food & Drinks (sponsored by DataGuard), Socializing (open end/as long as the location permits)
+
+  We'd still love to have another shorter slot (15 minutes), specifically intended for 1st time/inexperienced speakers who want to take to the stage for a shorter topic. If you have an idea yourself for anything Ruby or at least Ruby-related, get in touch!
+start_date: "2022-07-14"
+end_date: "2022-07-14"
+start_time: "19:00"
+end_time: "21:00"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/285945003/"
+coordinates:
+  latitude: 48.149354
+  longitude: 11.558268

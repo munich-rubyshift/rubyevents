@@ -1,0 +1,16 @@
+---
+id: "meetup-2012-08-08"
+title: "Munich Rubyshift Meetup August 2012"
+subtitle: "Ruby Meetup August 2012"
+location: "Munich, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+start_date: "2012-08-08"
+end_date: "2012-08-08"
+start_time: "19:30"
+end_time: "22:30"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+coordinates:
+  latitude: 48.134324
+  longitude: 11.565586

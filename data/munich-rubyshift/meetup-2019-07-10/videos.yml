@@ -1,0 +1,12 @@
+---
+- id: "gds-data-validation"
+  title: "GDS Data Validation"
+  date: "2019-07-10"
+  language: "English"
+  slides_url: "https://urasepandia.de/download/gds-data-validation-20190710.pdf"
+  video_provider: "not_recorded"
+  video_id: "gds-data-validation"
+  description: |-
+    A new data validation library providing a rule-based schema definition language.
+  speakers:
+    - Uli Ramminger

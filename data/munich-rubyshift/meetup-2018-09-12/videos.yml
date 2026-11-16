@@ -1,0 +1,12 @@
+---
+- id: "gds-general-data-structure"
+  title: "GDS - General Data Structure"
+  date: "2018-09-12"
+  language: "English"
+  slides_url: "https://urasepandia.de/download/gds-general-data-structure-rubyshift-20180912.pdf"
+  video_provider: "not_recorded"
+  video_id: "gds-general-data-structure"
+  description: |-
+    A universal, composable data structure, used to store any kind of data.
+  speakers:
+    - Uli Ramminger

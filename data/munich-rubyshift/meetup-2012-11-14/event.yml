@@ -1,0 +1,16 @@
+---
+id: "meetup-2012-11-14"
+title: "Munich Rubyshift Meetup November 2012"
+subtitle: "Ruby Meetup November 2013"
+location: "Munich, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+start_date: "2012-11-14"
+end_date: "2012-11-14"
+start_time: "19:00"
+end_time: "22:00"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+coordinates:
+  latitude: 48.134621
+  longitude: 11.56638

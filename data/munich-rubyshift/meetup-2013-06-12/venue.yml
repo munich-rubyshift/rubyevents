@@ -1,0 +1,17 @@
+---
+name: "Propertybase Office"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Landwehrstrasse 63"
+  postal_code: "80336"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Landwehrstrasse 63, 80336 Munich, Germany"
+coordinates:
+  latitude: 48.136253
+  longitude: 11.556818

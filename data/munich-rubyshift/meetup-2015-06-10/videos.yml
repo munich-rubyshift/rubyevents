@@ -1,0 +1,20 @@
+---
+- id: "salama-a-ruby-virtual-machine-in-100-ruby"
+  title: "Salama - a Ruby virtual machine in 100% Ruby"
+  date: "2015-06-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "salama-a-ruby-virtual-machine-in-100-ruby"
+  description: ""
+  speakers:
+    - Torsten Ruger
+
+- id: "an-introduction-to-opal"
+  title: "An introduction to Opal"
+  date: "2015-06-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "an-introduction-to-opal"
+  description: ""
+  speakers:
+    - Jannis Hübl

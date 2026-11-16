@@ -1,0 +1,33 @@
+---
+- id: "scenic-versioned-database-views-for-rails"
+  title: "Scenic: Versioned database views for Rails"
+  date: "2017-10-11"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "scenic-versioned-database-views-for-rails"
+  description: ""
+  speakers:
+    - Hendrik
+
+- id: "crashcourse-metaprogramming-in-ruby"
+  title: "Crashcourse: Metaprogramming in Ruby"
+  date: "2017-10-11"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "crashcourse-metaprogramming-in-ruby"
+  description: |-
+    The tools to write your own DSL: define_method, method_missing, singleton classes, send, instance_variable_get/set, etc.
+  speakers:
+    - Henning Koch
+
+- id: "ruby-news-october-2017"
+  title: "Ruby News October 2017"
+  kind: "lightning_talk"
+  date: "2017-10-11"
+  language: "English"
+  slides_url: "https://github.com/bascht/talks/blob/master/2017-10-munich-rubyshift/README.org#1-rubyshift-201710-news-slot"
+  video_provider: "not_recorded"
+  video_id: "ruby-news-october-2017"
+  description: ""
+  speakers:
+    - Sebastian Schulze

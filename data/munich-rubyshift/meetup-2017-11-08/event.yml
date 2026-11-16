@@ -1,0 +1,25 @@
+---
+id: "meetup-2017-11-08"
+title: "Munich Rubyshift Meetup November 2017"
+subtitle: "Ruby User Group Meetup"
+location: "Munich, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+description: |-
+  The venue will be open at 7pm, talks will start at 7:30pm.
+
+  We have two talks lined up.
+
+  The next U-Bahn station near Freeletics is Maillingerstraße.
+
+  We're always searching for speakers! Want to become one? Ping us!
+start_date: "2017-11-08"
+end_date: "2017-11-08"
+start_time: "19:00"
+end_time: "22:00"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/244141903/"
+coordinates:
+  latitude: 48.150675
+  longitude: 11.548507

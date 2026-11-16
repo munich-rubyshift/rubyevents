@@ -1,0 +1,11 @@
+---
+- id: "ruby-coding-my-pitfall-with-string-split"
+  title: "Ruby Coding - My pitfall with String#split"
+  kind: "lightning_talk"
+  date: "2020-01-08"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "ruby-coding-my-pitfall-with-string-split"
+  description: ""
+  speakers:
+    - Uli Ramminger

@@ -1,0 +1,44 @@
+---
+- id: "introduction-to-the-hexagonal-architecture"
+  title: "Introduction to the Hexagonal Architecture"
+  date: "2012-11-14"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "introduction-to-the-hexagonal-architecture"
+  description: ""
+  speakers:
+    - Nikolay Sturm
+
+- id: "rails-performance-and-the-indentity-mapper"
+  title: "Rails performance and the Indentity Mapper"
+  kind: "lightning_talk"
+  date: "2012-11-14"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "rails-performance-and-the-indentity-mapper"
+  description: |-
+    A tapas style talk on optimizing model caching for Rails 3/4 with IdentityMap.
+  speakers:
+    - Peter Schrammel
+
+- id: "introduction-to-clojure"
+  title: "Introduction to Clojure"
+  date: "2012-11-14"
+  language: "English"
+  slides_url: "https://speakerdeck.com/ifesdjeen/introduction-to-clojure-the-hard-way"
+  video_provider: "not_recorded"
+  video_id: "introduction-to-clojure"
+  description: ""
+  speakers:
+    - Alex Petrov
+
+- id: "experience-report-on-the-rails-girls-munich-event"
+  title: "Experience report on the Rails Girls Munich event"
+  date: "2012-11-14"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "experience-report-on-the-rails-girls-munich-event"
+  description: |-
+    A short overview of the who, how and why's of the Ruby Girls Movement. The Munich event happenend on October 12th & 13th and was a wonderful success that was even recorded by the Deutsche Welle.
+  speakers:
+    - Sara Regan

@@ -1,0 +1,22 @@
+---
+- id: "deploy-like-nobody-is-watching"
+  title: "Deploy like nobody is watching."
+  date: "2015-03-11"
+  language: "English"
+  slides_url: "https://speakerdeck.com/bascht/deploy-like-nobody-is-watching"
+  video_provider: "not_recorded"
+  video_id: "deploy-like-nobody-is-watching"
+  description: ""
+  speakers:
+    - Sebastian Schulze
+
+- id: "websockets-in-a-super-simple-chatserver"
+  title: "Websockets in a super simple chatserver"
+  date: "2015-03-11"
+  language: "English"
+  slides_url: "https://slides.com/d/KwIoJZg/live"
+  video_provider: "not_recorded"
+  video_id: "websockets-in-a-super-simple-chatserver"
+  description: ""
+  speakers:
+    - Peter Schrammel

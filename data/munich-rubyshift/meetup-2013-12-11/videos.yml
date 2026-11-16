@@ -1,0 +1,23 @@
+---
+- id: "rvm-wrappers"
+  title: "rvm wrappers"
+  date: "2013-12-11"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "rvm-wrappers"
+  description: |-
+    A dive into Ruby and gem configuration and what rvm does to help you
+  speakers:
+    - Michal Papis
+
+- id: "exploring-riak-2-0"
+  title: "Exploring Riak 2.0"
+  date: "2013-12-11"
+  language: "English"
+  slides_url: "https://sideshowcoder.com/post/69778936838/what-is-new-in-riak-2-0-at-riak-ug-munich/"
+  video_provider: "not_recorded"
+  video_id: "exploring-riak-2-0"
+  description: |-
+    Let me tell you about Solr, CRDTs, and Authentication
+  speakers:
+    - Phillipp Fehre

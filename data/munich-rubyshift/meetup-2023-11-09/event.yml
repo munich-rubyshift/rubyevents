@@ -1,0 +1,34 @@
+---
+id: "meetup-2023-11-09"
+title: "Munich Rubyshift Meetup November 2023"
+subtitle: "Ruby Meetup November 2023"
+location: "Munich, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+description: |-
+  Dear Munich Rubyists,
+
+  the leaves are turning brown again, so it's high time for this year's November edition of our meetup!
+
+  This time, or friends from Xempus will be our hosts for location, food & drinks again. They'll also have their own Oliver Prater share their experiences about migrating from a single to multi tenant app.
+
+  I'm also looking for an optional 2nd speaker to give a short(er) talk in addition to the main talk => let me know if you're interested or know someone who might be interested.
+
+  Agenda:
+  - Welcome & Announcements
+  - Location/Food & Drinks Sponsor Slot
+  - Food & Drinks (sponsored by Xempus)
+  - Talk 1: Oliver Prater
+  - Break
+  - *OPEN TALK SLOT*
+  - Socializing (open end/as long as the location permits)
+start_date: "2023-11-09"
+end_date: "2023-11-09"
+start_time: "19:00"
+end_time: "21:00"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/296645729/"
+coordinates:
+  latitude: 48.146397
+  longitude: 11.537623

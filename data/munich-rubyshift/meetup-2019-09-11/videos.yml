@@ -1,0 +1,20 @@
+---
+- id: "deep-dive-into-the-internals-of-activesupport-callbacks"
+  title: "Deep dive into the internals of ActiveSupport::Callbacks"
+  date: "2019-09-11"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "deep-dive-into-the-internals-of-activesupport-callbacks"
+  description: ""
+  speakers:
+    - Austin Moore
+
+- id: "the-nitty-gritty-details-of-activerecord-associations-association-target-and-activerecord-autosaveassociation"
+  title: "The nitty gritty details of ActiveRecord::Associations::Association#target and ActiveRecord::AutosaveAssociation"
+  date: "2019-09-11"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "the-nitty-gritty-details-of-activerecord-associations-association-target-and-activerecord-autosaveassociation"
+  description: ""
+  speakers:
+    - Oliver Prater

@@ -1,0 +1,13 @@
+---
+- id: "reset-the-net"
+  title: "Reset the Net"
+  date: "2014-05-14"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "reset-the-net"
+  description: |-
+    Mathias will briefly introduce us to <https://www.resetthenet.org/>.
+
+    This would be a good opportunity to talk about anything related to crypto and privacy afterwards.
+  speakers:
+    - Mathias Huber

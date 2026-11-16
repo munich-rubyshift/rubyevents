@@ -1,0 +1,33 @@
+---
+- id: "introduction-into-elasticsearch-integration-with-ruby"
+  title: "Introduction into Elasticsearch - Integration with Ruby"
+  date: "2013-04-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "introduction-into-elasticsearch-integration-with-ruby"
+  description: |-
+    Search is a rather complex topic, which Elasticsearch as an open source search solution tries to simplify. However, solutions are useless without integrations, so we are going to checkout one of the existing ruby integrations.
+  speakers:
+    - Alexander Reelsen
+
+- id: "introduction-to-goliath"
+  title: "Introduction to Goliath"
+  date: "2013-04-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "introduction-to-goliath"
+  description: |-
+    Goliath is a lightweight eventmachine based web framework. I'll show you the features, the caveats and give you some hints that could help you with your next project.
+  speakers:
+    - Peter Schrammel
+
+- id: "introduction-to-cassandra"
+  title: "Introduction to Cassandra"
+  date: "2013-04-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "introduction-to-cassandra"
+  description: |-
+    Cassandra is a fault-tolerant, distributed database, allowing you to scale linearly without compromising performance or availability.
+  speakers:
+    - Alex Petrov

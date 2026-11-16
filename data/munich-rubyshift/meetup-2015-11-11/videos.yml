@@ -1,0 +1,22 @@
+---
+- id: "metaprogramming-in-ruby"
+  title: "Metaprogramming in Ruby"
+  date: "2015-11-11"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "metaprogramming-in-ruby"
+  description: ""
+  speakers:
+    - Cristian Eigel
+
+- id: "ruby-news-november-2015"
+  title: "Ruby News November 2015"
+  kind: "lightning_talk"
+  date: "2015-11-11"
+  language: "English"
+  slides_url: "https://github.com/bascht/talks/tree/master/2015-11-munich-rubyshift#my-talk-at-rubyshift-munich-2015-11-11"
+  video_provider: "not_recorded"
+  video_id: "ruby-news-november-2015"
+  description: ""
+  speakers:
+    - Sebastian Schulze

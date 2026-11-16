@@ -1,0 +1,21 @@
+---
+- id: "objects-no-really"
+  title: "Objects, no really."
+  date: "2015-07-22"
+  language: "English"
+  slides_url: "http://files.meetup.com/8851722/objects_no_really.pdf"
+  video_provider: "not_recorded"
+  video_id: "objects-no-really"
+  description: ""
+  speakers:
+    - James Edward Gray II
+
+- id: "after-10-years-of-ruby"
+  title: "After 10 years of Ruby"
+  date: "2015-07-22"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "after-10-years-of-ruby"
+  description: ""
+  speakers:
+    - Peter Schrammel

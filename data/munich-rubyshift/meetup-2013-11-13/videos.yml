@@ -1,0 +1,33 @@
+---
+- id: "fast-and-furious-slow-and-functional"
+  title: "Fast and furious. Slow and functional"
+  date: "2013-11-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "fast-and-furious-slow-and-functional"
+  description: |-
+    How Anna benchmarked declarative and imperative solutions in Ruby.
+  speakers:
+    - Anna Bulenkova
+
+- id: "jruby-the-business-perspective"
+  title: "JRuby: the business perspective"
+  date: "2013-11-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "jruby-the-business-perspective"
+  description: |-
+    JRuby is often portrayed as the Ruby with brilliant Garbage Collection and native threads but poor startup time and large memory overhead. But how can JRuby really help you in a project, especially when you deal with large corporations that live in the Java world.
+  speakers:
+    - Leif Gensert
+
+- id: "design-patterns-a-ruby-perspective"
+  title: "Design Patterns - A Ruby Perspective"
+  date: "2013-11-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "design-patterns-a-ruby-perspective"
+  description: |-
+    I'll give a digest of Russ Olsen's 2007 book "Design Patterns in Ruby". It applies 14 of the 23 "Gang of Four" patterns to Ruby and suggests 3 additional Ruby-specific patterns. In the discussion part you are invited to talk about your favourite pattern or your least favourite pattern, antipatterns, enterprise patterns, maybe why you don't like patterns ...
+  speakers:
+    - Mathias Huber

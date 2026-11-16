@@ -1,0 +1,20 @@
+---
+- id: "mruby-nginx"
+  title: "mRuby + nginx"
+  date: "2017-09-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "mruby-nginx"
+  description: ""
+  speakers:
+    - Adnan Husein
+
+- id: "micro-or-not-to-micro"
+  title: "Micro or not to micro?"
+  date: "2017-09-13"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "micro-or-not-to-micro"
+  description: ""
+  speakers:
+    - Peter Schrammel

@@ -1,0 +1,36 @@
+---
+- id: "diy-ruby-framework"
+  title: "DIY Ruby Framework"
+  date: "2015-10-14"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "diy-ruby-framework"
+  description: |-
+    A talk on how much Rails is just a pack of various popular modules and how easy it is to repack and create your own framework on rack or sinatra.
+
+    A detailed step-by-step what to do, possible problems and benefits, as at least as I see it. I would like if somebody told me all all this few years ago.
+  speakers:
+    - Dino Reic
+
+- id: "coffeescript-the-right-and-easy-way"
+  title: "CoffeeScript, the right and easy way"
+  date: "2015-10-14"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "coffeescript-the-right-and-easy-way"
+  description: |-
+    Understanding Node and JS for Ruby developers
+  speakers:
+    - Dino Reic
+
+- id: "ruby-news-october-2015"
+  title: "Ruby News October 2015"
+  kind: "lightning_talk"
+  date: "2015-10-14"
+  language: "English"
+  slides_url: "https://github.com/bascht/talks/tree/master/2015-10-munich-rubyshift"
+  video_provider: "not_recorded"
+  video_id: "ruby-news-october-2015"
+  description: ""
+  speakers:
+    - Sebastian Schulze

@@ -1,0 +1,19 @@
+---
+id: "meetup-2019-01-09"
+title: "Munich Rubyshift Meetup January 2019"
+subtitle: "Ruby User Group Meetup"
+location: "Munich, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+description: |-
+  We have one more talk slot open. Want to jump in? Talk to us!
+start_date: "2019-01-09"
+end_date: "2019-01-09"
+start_time: "19:00"
+end_time: "21:00"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/255062412/"
+coordinates:
+  latitude: 48.138987
+  longitude: 11.554181

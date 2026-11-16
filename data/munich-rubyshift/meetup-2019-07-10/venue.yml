@@ -1,0 +1,17 @@
+---
+name: "riskmethods Office 2"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Balanstraße 49"
+  postal_code: "81669"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Balanstraße 49, 81669 Munich, Germany"
+coordinates:
+  latitude: 48.123795
+  longitude: 11.597294

@@ -1,0 +1,17 @@
+---
+name: "Freeletics Office 2"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Berg-am-Laim-Straße 111"
+  postal_code: "81673"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Berg-am-Laim-Straße 111, 81673 Munich, Germany"
+coordinates:
+  latitude: 48.129604
+  longitude: 11.625085

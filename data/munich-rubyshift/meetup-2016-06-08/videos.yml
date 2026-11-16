@@ -1,0 +1,42 @@
+---
+- id: "hackin-rails-an-overview-of-ror-security"
+  title: "Hackin' Rails - An overview of RoR Security"
+  date: "2016-06-08"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "hackin-rails-an-overview-of-ror-security"
+  description: ""
+  speakers:
+    - John Poulin
+
+- id: "phoenix-for-rails-devs"
+  title: "Phoenix for Rails devs"
+  date: "2016-06-08"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "phoenix-for-rails-devs"
+  description: ""
+  speakers:
+    - Marcus Lankenau
+
+- id: "run-any-feature-branch-on-the-product-manager-s-machine"
+  title: "Run any feature branch on the product manager's machine"
+  date: "2016-06-08"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "run-any-feature-branch-on-the-product-manager-s-machine"
+  description: ""
+  speakers:
+    - Sri Vishnu Totakura
+
+- id: "ruby-news-june-2016"
+  title: "Ruby News June 2016"
+  kind: "lightning_talk"
+  date: "2016-06-08"
+  language: "English"
+  slides_url: "https://github.com/bascht/talks/tree/master/2016-06-munich-rubyshift"
+  video_provider: "not_recorded"
+  video_id: "ruby-news-june-2016"
+  description: ""
+  speakers:
+    - Sebastian Schulze

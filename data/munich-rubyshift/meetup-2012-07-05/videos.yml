@@ -1,0 +1,13 @@
+---
+- id: "the-shortest-way-to-rewrite-something-like-ruby-in-c"
+  title: "The shortest way to rewrite something like Ruby in C"
+  date: "2012-07-05"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "the-shortest-way-to-rewrite-something-like-ruby-in-c"
+  description: |-
+    Simple memory management, garbage collection, data types, parser. The talk is mostly based on code I've written for clispy: <https://github.com/sck/clispy>.
+
+    Website: <https://github.com/sck>
+  speakers:
+    - Sven C. Koehler

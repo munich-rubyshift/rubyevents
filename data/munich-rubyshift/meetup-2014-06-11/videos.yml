@@ -1,0 +1,22 @@
+---
+- id: "docker"
+  title: "Docker"
+  date: "2014-06-11"
+  language: "English"
+  slides_url: "https://bibstha.github.io/revealjs-docker/#/"
+  video_provider: "not_recorded"
+  video_id: "docker"
+  description: ""
+  speakers:
+    - Bibek Shrestha
+
+- id: "what-s-new-in-ruby-2-1"
+  title: "What's new in Ruby 2.1"
+  date: "2014-06-11"
+  language: "English"
+  slides_url: "https://drive.google.com/folderview?id=0B9zr62JIoZwhbmJUaWhNMmdOV0E&usp=sharing"
+  video_provider: "not_recorded"
+  video_id: "what-s-new-in-ruby-2-1"
+  description: ""
+  speakers:
+    - Shota Bakuradze

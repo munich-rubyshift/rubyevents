@@ -1,0 +1,41 @@
+---
+id: "meetup-2026-01-22"
+title: "Munich Rubyshift Meetup January 2026"
+subtitle: "Ruby Meetup January 2026"
+location: "Augsburg, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+description: |-
+  Dear Rubyists,
+
+  our first Meetup in 2026 will take place on January 22nd in **AUGSBURG** !!!
+
+  After opening its gates at Rails World 2025 in Amsterdam, the Ruby embassy (a "fun bureaucratic activity") is opening a branch office at our local Meetup group. Take a photo, fill out your application forms, grab your Ruby passport and start collecting stamps.
+
+  The Ruby embassy will also issue passports at our future Meetups, although potentially with less bureaucracy (i.e. less fun).
+
+  More details about the Ruby passport: <https://therubypassport.notion.site>
+
+  After food & drinks we'll switch over to the talk by Henning.
+
+  Looking forward to seeing you all in January!
+
+  Discord group: <https://discord.gg/EKqHWmCxGZ>
+
+  Agenda:
+  - Welcome & Announcements
+  - 18:30 - 19:15 CEST: Office hours of the Ruby embassy (Außenstelle Augsburg)
+  - Apply for your Ruby passport and become an "official" member of the Ruby community
+  - Food & Drinks (thanks to makandra)
+  - Talk 1: Henning Koch
+  - Socializing (open end/as long as the location permits)
+start_date: "2026-01-22"
+end_date: "2026-01-22"
+start_time: "18:30"
+end_time: "21:30"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/312376792/"
+coordinates:
+  latitude: 48.338403
+  longitude: 10.902191

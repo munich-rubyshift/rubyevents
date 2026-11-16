@@ -1,0 +1,17 @@
+---
+id: "meetup-2015-07-22"
+title: "Munich Rubyshift Meetup July 2015"
+subtitle: "Ruby User Group Meetup"
+location: "Munich, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+start_date: "2015-07-22"
+end_date: "2015-07-22"
+start_time: "19:00"
+end_time: "22:00"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/221711164/"
+coordinates:
+  latitude: 48.138987
+  longitude: 11.554181

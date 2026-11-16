@@ -1,0 +1,10 @@
+---
+- id: "tdd-for-containers-with-serverspec"
+  title: "TDD for Containers with ServerSpec"
+  date: "2018-05-09"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "tdd-for-containers-with-serverspec"
+  description: ""
+  speakers:
+    - Mario Fernandez

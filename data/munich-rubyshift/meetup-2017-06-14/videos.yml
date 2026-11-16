@@ -1,0 +1,22 @@
+---
+- id: "5-things-i-wish-my-grandfather-told-me-about-activerecord-and-postgres"
+  title: "5 Things I wish my grandfather told me about ActiveRecord and Postgres"
+  date: "2017-06-14"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "5-things-i-wish-my-grandfather-told-me-about-activerecord-and-postgres"
+  description: ""
+  speakers:
+    - Ken Alex Fassone
+
+- id: "ruby-news-june-2017"
+  title: "Ruby News June 2017"
+  kind: "lightning_talk"
+  date: "2017-06-14"
+  language: "English"
+  slides_url: "https://github.com/bascht/talks/tree/master/2017-06-munich-rubyshift"
+  video_provider: "not_recorded"
+  video_id: "ruby-news-june-2017"
+  description: ""
+  speakers:
+    - Sebastian Schulze

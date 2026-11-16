@@ -1,0 +1,17 @@
+---
+name: "Experteer Office"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Lenbachplatz 3"
+  postal_code: "80333"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Lenbachplatz 3, 80333 Munich, Germany"
+coordinates:
+  latitude: 48.141211
+  longitude: 11.5682

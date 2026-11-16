@@ -1,0 +1,17 @@
+---
+name: "Former 03 Office"
+accessibility:
+  wheelchair: false
+  elevators: false
+  accessible_restrooms: false
+address:
+  street: "Infanteriestraße 19, Haus 6"
+  postal_code: "80797"
+  city: "Munich"
+  region: "BY"
+  country_code: "DE"
+  country: "Germany"
+  display: "Infanteriestraße 19, Haus 6, 80797 Munich, Germany"
+coordinates:
+  latitude: 48.160923
+  longitude: 11.552639

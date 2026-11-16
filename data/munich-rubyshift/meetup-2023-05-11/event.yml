@@ -1,0 +1,32 @@
+---
+id: "meetup-2023-05-11"
+title: "Munich Rubyshift Meetup May 2023"
+subtitle: "Ruby Meetup May 2023"
+location: "Munich, Germany"
+timezone: "Europe/Berlin"
+kind: "meetup"
+description: |-
+  Dear Munich Rubyists,
+
+  as winter finally seems to be leaving Munich for good, it's time for our May meetup!
+
+  This upcoming meetup will be hosted by JetBrains in their Munich office. We're still looking for speakers, so if you want to give a talk, please get in touch.
+
+  Agenda:
+  - Welcome & Announcements
+  - Location/Food & Drinks Sponsor Slot
+  - Food & Drinks (sponsored by JetBrains)
+  - Talk 1: Omar Qunsul
+  - Break
+  - Talk 2: Karl Keller
+  - Socializing (open end/as long as the location permits)
+start_date: "2023-05-11"
+end_date: "2023-05-11"
+start_time: "19:00"
+end_time: "21:00"
+status: "scheduled"
+website: "https://munich-rubyshift.org"
+tickets_url: "https://www.meetup.com/de-de/munich-rubyshift-ruby-user-group/events/292979878/"
+coordinates:
+  latitude: 48.145842
+  longitude: 11.505325

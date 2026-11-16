@@ -1,0 +1,22 @@
+---
+- id: "pains-of-growing"
+  title: "Pains of growing"
+  date: "2012-10-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "pains-of-growing"
+  description: |-
+    A short and very opinionated resume of growing a successfull Rails application over 7 years. Learnings not only on scaling Rails or Ruby but on scaling development itself.
+  speakers:
+    - Peter Schrammel
+
+- id: "who-is-afraid-of-the-whitespaces"
+  title: "Who is afraid of the whitespaces?"
+  date: "2012-10-10"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "who-is-afraid-of-the-whitespaces"
+  description: |-
+    An unusual introduction to Coffeescript, whitespaces, classes and other scary things. This presentation will only cover very few code examples of Coffeescript but I will give the audience lots of insight of how humans perceive the world. The audience will learn how humans react to structure, how we perceive 'negative space' (whitespaces being one instance to it) and 'symbols', and how we model the world. I will give a amusing presentation on the psychology and philosophy of programming and programming languages.
+  speakers:
+    - Robert Kuzelj

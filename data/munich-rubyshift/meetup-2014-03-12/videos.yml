@@ -1,0 +1,32 @@
+---
+- id: "how-to-build-native-android-apps-with-the-ruboto-framework"
+  title: "How to build native Android Apps with the ruboto framework"
+  date: "2014-03-12"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "how-to-build-native-android-apps-with-the-ruboto-framework"
+  description: ""
+  speakers:
+    - Carola Boettcher
+
+- id: "how-to-make-excel-files-with-ruby"
+  title: "How to Make Excel-Files with Ruby"
+  date: "2014-03-12"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "how-to-make-excel-files-with-ruby"
+  description: ""
+  speakers:
+    - Sebastian Burkhard
+
+- id: "bulldozer-a-tool-for-css-and-javascript-monitoring"
+  title: "Bulldozer, a tool for css and javascript monitoring"
+  date: "2014-03-12"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "bulldozer-a-tool-for-css-and-javascript-monitoring"
+  description: |-
+    About our speaker:\
+    Tom from Experteer (<http://www.experteer.de/>). Probably Thomas Nitsche
+  speakers:
+    - Tom

@@ -1,0 +1,31 @@
+---
+- id: "railsconf-2016"
+  title: "RailsConf 2016"
+  date: "2016-05-11"
+  language: "English"
+  slides_url: "https://speakerdeck.com/sadiksha/rails-conf-2016-lightening-talk."
+  video_provider: "not_recorded"
+  video_id: "railsconf-2016"
+  description: ""
+  speakers:
+    - Sadiksha Gautam
+
+- id: "effective-testing-or-how-to-sleep-when-you-are-on-call"
+  title: "Effective Testing or how to sleep when you are on call"
+  date: "2016-05-11"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "effective-testing-or-how-to-sleep-when-you-are-on-call"
+  description: ""
+  speakers:
+    - Monica Giambitto
+
+- id: "ruby-on-the-command-line"
+  title: "Ruby on the command line"
+  date: "2016-05-11"
+  language: "English"
+  video_provider: "not_recorded"
+  video_id: "ruby-on-the-command-line"
+  description: ""
+  speakers:
+    - Peter Schrammel
